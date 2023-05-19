@@ -1,0 +1,67 @@
+.first-container{
+    width: 1262px;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+.second-container{
+    width: 1262px;
+    height: 200px;
+    background-color: red;
+    }
+
+#first-box{
+    width: 400px;
+    height: 230px;
+    background-color: green;
+    float: right;
+    margin-right: 160px;
+    border-radius: 80px;
+
+}
+
+#second-box{
+    width: 400px;
+    height: 230px;
+    background-color: yellow;
+    float: right;
+    margin-right: 30px;
+    border-radius: 80px;
+}
+
+#third-box{
+    width: 400px;
+    height: 230px;
+    background-color: blue;
+    border-radius: 80px;
+}
+
+.fourth-container{
+    width: 1262px;
+    height: 100px;
+    background-color: red;
+}
+
+.navbar{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    padding-top: 30px;
+}
+
+.body-page{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+    padding-top: 50px;
+}
+
+.footer{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    padding-top: 30px;
+}
